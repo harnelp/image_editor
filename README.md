@@ -1,13 +1,16 @@
 Editor de Fotos con Tkinter y Python
-Descripción:
-Este proyecto es un editor de fotos desarrollado en Python, utilizando la biblioteca Tkinter para la interfaz gráfica de usuario. Permite a los usuarios realizar ajustes básicos en sus fotos, como cambiar el brillo, el contraste y aplicar varios filtros.
 
-Características
+Descripción:
+Este proyecto es un editor de fotos desarrollado en Python, utilizando la biblioteca Tkinter para la interfaz gráfica de usuario. 
+Permite a los usuarios realizar ajustes básicos en sus fotos, como cambiar el brillo, el contraste y aplicar varios filtros.
+
+Características:
 Interfaz Gráfica: Fácil de usar, desarrollada con Tkinter.
 Edición de Imágenes: Ajuste de brillo, contraste, saturación y más.
 Filtros: Variedad de filtros para aplicar a las imágenes.
 Compatibilidad: Funciona en diversas plataformas donde Python y Tkinter estén disponibles.
-Requisitos
+
+Requisitos:
 Python 3.x
 Tkinter (usualmente viene con Python)
 Otras bibliotecas de Python necesarias para el procesamiento de imágenes.
@@ -31,6 +34,7 @@ Capturas de Pantalla
 ######################################################################################################
 
 Photo Editor with Tkinter and Python
+
 Description:
 This project is a photo editing application developed in Python, using the Tkinter library for the graphical user interface. It allows users to make basic adjustments to their photos, such as changing brightness, contrast, and applying various filters.
 
